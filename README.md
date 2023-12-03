@@ -24,7 +24,4 @@ After launching the application you will get:
 
 and opening the url will lead you to:
 
-
-
-
-![Screenshot 2023-12-03 210958](https://github.com/kunal260100/Wine_Quality_web_app/assets/113965493/98c7a1cc-95f9-4a80-b65a-aa686372f9a2)
+![Screenshot 2023-12-03 211600](https://github.com/kunal260100/Wine_Quality_web_app/assets/113965493/e262ad85-86c9-4860-995a-b61fa47a0f93)
