@@ -16,3 +16,10 @@ Packages used for developing app: 💻
 5. `seaborn`
 6. `pickle`
 7. `streamlit`
+
+After launching the application you will get:
+![Screenshot 2023-12-03 211348](https://github.com/kunal260100/Wine_Quality_web_app/assets/113965493/bb50576b-96e6-407e-a46f-2c3ac99c05b0)
+
+
+and opening the url will lead you to:
+![Screenshot 2023-12-03 210958](https://github.com/kunal260100/Wine_Quality_web_app/assets/113965493/98c7a1cc-95f9-4a80-b65a-aa686372f9a2)
